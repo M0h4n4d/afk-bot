@@ -2,5 +2,5 @@
 	"ip":"th3_sam.aternos.me",
 	"port": "45564",
 	"name": "afkbot01",
-	"auto-night-skip":"true"
+	"auto-night-skip":"fales"
 }
